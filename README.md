@@ -1,22 +1,22 @@
 # Maven-Market-Project
 Maven Market Power BI Dashboard
 
-This project presents an interactive Power BI dashboard built to analyze the performance of a multinational grocery chain across Canada, Mexico, and the United States. It transforms raw retail data into actionable insights to support data-driven decision-making.
+This project delivers an interactive Power BI dashboard analyzing the performance of a multinational grocery chain across Canada, Mexico, and the United States. It transforms retail data into clear, actionable insights to support data-driven decision-making.
 
-Project Highlights
+Performance Highlights
 
-Interactive dashboards analyzing sales trends, customer behavior, and store performance
+Portland closed the year with 1,000 sales in December
 
-Advanced DAX measures for revenue, KPIs, and product segmentation
+In Mexico, Hermanos products generated the highest total profit ($8,622)
 
-Optimized data modeling and dynamic reporting features for clear insights
+Horatio products recorded the highest return rate (1.26%)
 
-Skills & Tools
+Key Features
 
-Power BI Desktop
+Interactive dashboards for sales, revenue, and store performance
 
-DAX (calculated columns & measures)
+Advanced DAX measures for KPIs and profitability analysis
 
-Data modeling and visualization
-
-Interactive reporting and dashboard design
+Optimized data modeling and intuitive visual design
+<img width="1794" height="1029" alt="Dasboard" src="https://github.com/user-attachments/assets/ca1946b8-4905-4193-8124-dfa540731c1b" />
+<img width="1763" height="1023" alt="Performance Notes" src="https://github.com/user-attachments/assets/e9389a19-58bf-4775-b87b-b33592864f47" />
